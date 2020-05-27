@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "dumi-lib",
+  "name": "arcticBusinessCom",
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
